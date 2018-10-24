@@ -23,8 +23,3 @@ https://github.com/aelbore/ng-find-user-github-project/tree/master/src/elements
 ```
 
 <br />
-### References
-* Build web components
-```
-https://github.com/aelbore/create-custom-elements
-```
